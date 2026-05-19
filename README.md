@@ -1,5 +1,3 @@
-# SnakeSalad67.github.io
-
 ## Privacy Policy
 Last updated: May 2026
 
