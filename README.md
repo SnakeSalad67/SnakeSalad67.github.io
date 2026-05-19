@@ -33,6 +33,5 @@ This app does not knowingly collect any personal information from children under
 Questions about this policy? Reach out at: [SnakeSalad67@protonmail.com]
 
 
-    
-      This policy may be updated occasionally. Continued use of the app constitutes acceptance of any changes.
+This policy may be updated occasionally. Continued use of the app constitutes acceptance of any changes.
     
